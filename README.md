@@ -47,3 +47,9 @@ SQL enables users to retrieve specific data from databases using queries. The mo
 select * from employee
 where salary >= 50,000
 ```
+###  SQL Comparison Operator
+---
+SQL comparison operators are essential tools used in queries to compare values and filter data based on specified conditions. These operators allow you to create conditions that can be evaluated as true or false, enabling you to refine your queries and retrieve specific datasets from a database.
+
+
+
