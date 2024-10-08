@@ -1,4 +1,15 @@
 # LITA-Bootcamp-Documentation
+
+ [Project Overview](#overview)
+ 
+ [Tools](#tools)
+ 
+ [MS Functions Exploration](#ms-function-exploration)
+ 
+ [Structured Query Language](#structured-query-language)
+ 
+ [SQL Comparison Operator](#sql-comparison-operator)
+
 ## Data analysis Overview
 ---
 In an era where vast amounts of data are generated every day—from customer interactions and social media to scientific research and market trends—data analysis serves as a bridge between raw data and actionable insights. By employing various techniques, analysts can transform complex datasets into clear visualizations, highlight key trends, and identify correlations that might otherwise go unnoticed.
@@ -51,5 +62,5 @@ where salary >= 50,000
 ---
 SQL comparison operators are essential tools used in queries to compare values and filter data based on specified conditions. These operators allow you to create conditions that can be evaluated as true or false, enabling you to refine your queries and retrieve specific datasets from a database.
 
-
+![SQL operator](https://github.com/user-attachments/assets/92c1c0d5-1270-4cde-a628-701a7298e426)
 
